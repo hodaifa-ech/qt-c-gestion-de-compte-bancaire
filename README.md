@@ -32,5 +32,4 @@ Enjoy it.
 For more details, you can either refer to « Project_Report.pdf » file or contact us by email. Feel free for suggestions.
 
 # how to contact us 
-gmail : ahouandjinoubill@gmail.com
-yahoo : ahouandjinoubill@yahoo.com
+gmail : echffani.hodaifa@etu.uae.ac.ma
