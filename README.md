@@ -2,8 +2,7 @@
 Basic bank accounts management app with Qt, C++ and SQLite.
 
 # task description
-This code has been written since at least two years now in a context of school evaluation.
-The task was to Create a Qt project in C++ that would permit to manage bank accounts.
+
 1. Constrainst
 · Each account is defined by a code, a balance and a creation date.
 · A current account is an account that has in addition an overdraft.
